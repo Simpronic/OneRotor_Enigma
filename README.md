@@ -11,6 +11,8 @@ Per cifrare(o decifrare) bisogna passare per i seguenti passi:
 3) cliccare il pulsante di cifratura 
 4) Per avviare una nuova cifratura premere il pulsante di nuova cifratura (differete dal pulsante di cifratura)
 
+Nella Repository sono forniti i soli file vhdl 
+
 #English: 
 Enigma machine, implemented on Nexys A7 50T.
 The project has been implemented for Architecture of Digital System exam (prof: Mazzocca-De Benedictis) by using vhdl language, i tried to reply, as fithfully as possible the machanic operation that the machine does in reality. 
@@ -22,3 +24,5 @@ To cypher(or de-cypher) you need to walk trought the following steps:
 2) Press a key on the keyboard
 3) Press the cypher button
 4) To start a new cypher process click the new cypher button (differet from cypher)
+
+Into the repository are provided only the vhdl files
